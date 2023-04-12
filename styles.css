@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+
+nav{
+    height: 120px;
+    padding: 0px 85px;
+}
+.nav-container {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.logo-container{
+    width: fit-content;
+    height: 40px;
+}
+.logo-container img {
+    height: 100%;
+}
+.nav-buttons-container{
+    display: flex;
+    justify-content: space-between;
+    gap: 2em;
+}
