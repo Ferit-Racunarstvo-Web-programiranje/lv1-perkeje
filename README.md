@@ -1,7 +1,7 @@
 # LV 1 zadatak - Osobna stranica
 
 ### LINK: 
-
+https://ladning-page-exercise.onrender.com
 <hr />
 
 ## Opis zadatka
